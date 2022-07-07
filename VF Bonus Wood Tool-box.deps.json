@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VF Bonus Wood Tool-box/1.0.0": {
+        "runtime": {
+          "VF Bonus Wood Tool-box.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VF Bonus Wood Tool-box/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
